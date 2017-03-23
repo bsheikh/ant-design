@@ -19,11 +19,12 @@ export default class CopyableIcon extends React.Component {
   }
 
   render() {
-    const text = `<Icon type="${this.props.type}" />`;
+    const catigory = (this.props.catigory === 'adparlor');
+    const text = catigory ? `<Icon adparlor type="${this.props.type}" />` : `<Icon type="${this.props.type}" />`;
     return (
       <CopyToClipboard text={text} onCopy={this.onCopied}>
         <li className={this.state.justCopied ? 'copied' : ''}>
-          <Icon type={this.props.type} />
+          <Icon adparlor={catigory} type={this.props.type} />
           <span className="anticon-class">{this.props.type}</span>
         </li>
       </CopyToClipboard>

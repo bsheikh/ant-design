@@ -8,15 +8,18 @@ export interface IconProps {
   title?: string;
   onClick?: React.MouseEventHandler<any>;
   spin?: boolean;
+  adparlor?: boolean;
   style?: React.CSSProperties;
 }
 
 export default (props: IconProps) => {
-  const { type, className = '', spin } = props;
+  const { type, className = '', spin, adparlor } = props;
+  const iconClass = adparlor ? `adparlor-icon ${type}` : `anticon-${type}`;
   const classString = classNames({
     anticon: true,
     'anticon-spin': !!spin || type === 'loading',
-    [`anticon-${type}`]: true,
+    iconClass: true,
+    [`${iconClass}`]: true,
   }, className);
-  return <i {...omit(props, ['type', 'spin'])} className={classString} />;
+  return <i {...omit(props, ['type', 'spin', 'adparlor'])} className={classString} />;
 };

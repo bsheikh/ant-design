@@ -34,6 +34,13 @@ By default, icons are deployed at [iconfont.cn](http://iconfont.cn), publicly av
 
 > Click the icon and copy the code。
 
+### Adparlor Icons
+
+```__react
+import IconSet from 'site/theme/template/IconSet';
+ReactDOM.render(<IconSet className="icons" catigory="adparlor" />, mountNode);
+```
+
 ### Directional Icons
 
 ```__react
