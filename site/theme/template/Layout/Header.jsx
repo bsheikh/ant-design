@@ -204,8 +204,8 @@ export default class Header extends React.Component {
         <Row>
           <Col lg={4} md={5} sm={24} xs={24}>
             <Link to={utils.getLocalizedPathname('/', isZhCN)} id="logo">
-              <img alt="logo" src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg" />
-              <span>Ant Design</span>
+              <img alt="logo" src="https://adparlor.com/wp-content/uploads/2015/11/ap.svg" />
+              <span>Design</span>
             </Link>
           </Col>
           <Col lg={20} md={19} sm={0} xs={0}>
