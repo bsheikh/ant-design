@@ -24,7 +24,7 @@ export default class CopyableIcon extends React.Component {
     return (
       <CopyToClipboard text={text} onCopy={this.onCopied}>
         <li className={this.state.justCopied ? 'copied' : ''}>
-          <Icon adparlor={catigory} type={this.props.type} />
+          <Icon spin adparlor={catigory} type={this.props.type} />
           <span className="anticon-class">{this.props.type}</span>
         </li>
       </CopyToClipboard>
