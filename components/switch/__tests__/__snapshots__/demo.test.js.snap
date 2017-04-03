@@ -87,7 +87,7 @@ exports[`renders ./components/switch/demo/text.md correctly 1`] = `
       class="ant-switch-inner"
     >
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
       />
     </span>
   </span>

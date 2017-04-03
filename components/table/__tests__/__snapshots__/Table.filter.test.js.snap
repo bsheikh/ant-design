@@ -51,7 +51,7 @@ exports[`Table.filter renders filter correctly 1`] = `
                     <span>
                       Name
                       <i
-                        class="anticon anticon-filter ant-dropdown-trigger"
+                        class="anticon iconClass anticon-filter ant-dropdown-trigger"
                         title="筛选"
                       />
                     </span>

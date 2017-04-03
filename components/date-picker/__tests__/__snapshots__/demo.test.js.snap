@@ -199,7 +199,7 @@ exports[`renders ./components/date-picker/demo/format.md correctly 1`] = `
         value="2015/01/01"
       />
       <i
-        class="anticon anticon-cross-circle ant-calendar-picker-clear"
+        class="anticon iconClass anticon-cross-circle ant-calendar-picker-clear"
       />
       <span
         class="ant-calendar-picker-icon"
@@ -218,7 +218,7 @@ exports[`renders ./components/date-picker/demo/format.md correctly 1`] = `
         value="2015/01"
       />
       <i
-        class="anticon anticon-cross-circle ant-calendar-picker-clear"
+        class="anticon iconClass anticon-cross-circle ant-calendar-picker-clear"
       />
       <span
         class="ant-calendar-picker-icon"
@@ -250,7 +250,7 @@ exports[`renders ./components/date-picker/demo/format.md correctly 1`] = `
         value="2015/01/01"
       />
       <i
-        class="anticon anticon-cross-circle ant-calendar-picker-clear"
+        class="anticon iconClass anticon-cross-circle ant-calendar-picker-clear"
       />
       <span
         class="ant-calendar-picker-icon"

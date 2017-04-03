@@ -54,7 +54,7 @@ exports[`renders ./components/transfer/demo/advanced.md correctly 1`] = `
             class="ant-transfer-list-search-action"
           >
             <i
-              class="anticon anticon-search"
+              class="anticon iconClass anticon-search"
             />
           </span>
         </div>
@@ -92,7 +92,7 @@ exports[`renders ./components/transfer/demo/advanced.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-left"
+          class="anticon iconClass anticon-left"
         />
         to left
       </span>
@@ -105,7 +105,7 @@ exports[`renders ./components/transfer/demo/advanced.md correctly 1`] = `
       <span>
         to right
         <i
-          class="anticon anticon-right"
+          class="anticon iconClass anticon-right"
         />
       </span>
     </button>
@@ -160,7 +160,7 @@ exports[`renders ./components/transfer/demo/advanced.md correctly 1`] = `
             class="ant-transfer-list-search-action"
           >
             <i
-              class="anticon anticon-search"
+              class="anticon iconClass anticon-search"
             />
           </span>
         </div>
@@ -309,7 +309,7 @@ exports[`renders ./components/transfer/demo/basic.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-left"
+          class="anticon iconClass anticon-left"
         />
       </span>
     </button>
@@ -320,7 +320,7 @@ exports[`renders ./components/transfer/demo/basic.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-right"
+          class="anticon iconClass anticon-right"
         />
       </span>
     </button>
@@ -460,7 +460,7 @@ exports[`renders ./components/transfer/demo/custom-item.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-left"
+          class="anticon iconClass anticon-left"
         />
       </span>
     </button>
@@ -471,7 +471,7 @@ exports[`renders ./components/transfer/demo/custom-item.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-right"
+          class="anticon iconClass anticon-right"
         />
       </span>
     </button>
@@ -584,7 +584,7 @@ exports[`renders ./components/transfer/demo/large-data.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-left"
+          class="anticon iconClass anticon-left"
         />
       </span>
     </button>
@@ -595,7 +595,7 @@ exports[`renders ./components/transfer/demo/large-data.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-right"
+          class="anticon iconClass anticon-right"
         />
       </span>
     </button>
@@ -701,7 +701,7 @@ exports[`renders ./components/transfer/demo/search.md correctly 1`] = `
             class="ant-transfer-list-search-action"
           >
             <i
-              class="anticon anticon-search"
+              class="anticon iconClass anticon-search"
             />
           </span>
         </div>
@@ -726,7 +726,7 @@ exports[`renders ./components/transfer/demo/search.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-left"
+          class="anticon iconClass anticon-left"
         />
       </span>
     </button>
@@ -737,7 +737,7 @@ exports[`renders ./components/transfer/demo/search.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-right"
+          class="anticon iconClass anticon-right"
         />
       </span>
     </button>
@@ -791,7 +791,7 @@ exports[`renders ./components/transfer/demo/search.md correctly 1`] = `
             class="ant-transfer-list-search-action"
           >
             <i
-              class="anticon anticon-search"
+              class="anticon iconClass anticon-search"
             />
           </span>
         </div>

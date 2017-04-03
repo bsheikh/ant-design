@@ -135,7 +135,7 @@ exports[`renders ./components/layout/demo/custom-trigger.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-user"
+          class="anticon iconClass anticon-user"
         />
         <span
           class="nav-text"
@@ -150,7 +150,7 @@ exports[`renders ./components/layout/demo/custom-trigger.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-video-camera"
+          class="anticon iconClass anticon-video-camera"
         />
         <span
           class="nav-text"
@@ -165,7 +165,7 @@ exports[`renders ./components/layout/demo/custom-trigger.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-upload"
+          class="anticon iconClass anticon-upload"
         />
         <span
           class="nav-text"
@@ -183,7 +183,7 @@ exports[`renders ./components/layout/demo/custom-trigger.md correctly 1`] = `
       style="background:#fff;padding:0;"
     >
       <i
-        class="anticon anticon-menu-fold trigger"
+        class="anticon iconClass anticon-menu-fold trigger"
       />
     </div>
     <div
@@ -321,7 +321,7 @@ exports[`renders ./components/layout/demo/responsive.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-user"
+          class="anticon iconClass anticon-user"
         />
         <span
           class="nav-text"
@@ -336,7 +336,7 @@ exports[`renders ./components/layout/demo/responsive.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-video-camera"
+          class="anticon iconClass anticon-video-camera"
         />
         <span
           class="nav-text"
@@ -351,7 +351,7 @@ exports[`renders ./components/layout/demo/responsive.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-upload"
+          class="anticon iconClass anticon-upload"
         />
         <span
           class="nav-text"
@@ -366,7 +366,7 @@ exports[`renders ./components/layout/demo/responsive.md correctly 1`] = `
         style="padding-left:24px;"
       >
         <i
-          class="anticon anticon-user"
+          class="anticon iconClass anticon-user"
         />
         <span
           class="nav-text"
@@ -432,7 +432,7 @@ exports[`renders ./components/layout/demo/side.md correctly 1`] = `
         >
           <span>
             <i
-              class="anticon anticon-user"
+              class="anticon iconClass anticon-user"
             />
             <span
               class="nav-text"
@@ -454,7 +454,7 @@ exports[`renders ./components/layout/demo/side.md correctly 1`] = `
         >
           <span>
             <i
-              class="anticon anticon-team"
+              class="anticon iconClass anticon-team"
             />
             <span
               class="nav-text"
@@ -472,7 +472,7 @@ exports[`renders ./components/layout/demo/side.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-file"
+            class="anticon iconClass anticon-file"
           />
           <span
             class="nav-text"
@@ -486,7 +486,7 @@ exports[`renders ./components/layout/demo/side.md correctly 1`] = `
       class="ant-layout-sider-trigger"
     >
       <i
-        class="anticon anticon-left"
+        class="anticon iconClass anticon-left"
       />
     </div>
   </div>
@@ -758,7 +758,7 @@ exports[`renders ./components/layout/demo/top-side.md correctly 1`] = `
             >
               <span>
                 <i
-                  class="anticon anticon-user"
+                  class="anticon iconClass anticon-user"
                 />
                 subnav 1
               </span>
@@ -815,7 +815,7 @@ exports[`renders ./components/layout/demo/top-side.md correctly 1`] = `
             >
               <span>
                 <i
-                  class="anticon anticon-laptop"
+                  class="anticon iconClass anticon-laptop"
                 />
                 subnav 2
               </span>
@@ -833,7 +833,7 @@ exports[`renders ./components/layout/demo/top-side.md correctly 1`] = `
             >
               <span>
                 <i
-                  class="anticon anticon-notification"
+                  class="anticon iconClass anticon-notification"
                 />
                 subnav 3
               </span>
@@ -924,7 +924,7 @@ exports[`renders ./components/layout/demo/top-side-2.md correctly 1`] = `
           >
             <span>
               <i
-                class="anticon anticon-user"
+                class="anticon iconClass anticon-user"
               />
               subnav 1
             </span>
@@ -981,7 +981,7 @@ exports[`renders ./components/layout/demo/top-side-2.md correctly 1`] = `
           >
             <span>
               <i
-                class="anticon anticon-laptop"
+                class="anticon iconClass anticon-laptop"
               />
               subnav 2
             </span>
@@ -999,7 +999,7 @@ exports[`renders ./components/layout/demo/top-side-2.md correctly 1`] = `
           >
             <span>
               <i
-                class="anticon anticon-notification"
+                class="anticon iconClass anticon-notification"
               />
               subnav 3
             </span>

@@ -140,7 +140,7 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
       type="button"
     >
       <i
-        class="anticon anticon-left"
+        class="anticon iconClass anticon-left"
       />
       <span>
         Go back
@@ -154,7 +154,7 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
         Go forward
       </span>
       <i
-        class="anticon anticon-right"
+        class="anticon iconClass anticon-right"
       />
     </button>
   </div>
@@ -166,7 +166,7 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
       type="button"
     >
       <i
-        class="anticon anticon-cloud"
+        class="anticon iconClass anticon-cloud"
       />
     </button>
     <button
@@ -174,7 +174,7 @@ exports[`renders ./components/button/demo/button-group.md correctly 1`] = `
       type="button"
     >
       <i
-        class="anticon anticon-cloud-download"
+        class="anticon iconClass anticon-cloud-download"
       />
     </button>
   </div>
@@ -303,7 +303,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
   </button>
   <button
@@ -311,7 +311,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
     <span>
       Search
@@ -322,7 +322,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
   </button>
   <button
@@ -330,7 +330,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
     <span>
       Search
@@ -342,7 +342,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
   </button>
   <button
@@ -350,7 +350,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
     <span>
       Search
@@ -361,7 +361,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
   </button>
   <button
@@ -369,7 +369,7 @@ exports[`renders ./components/button/demo/icon.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-search"
+      class="anticon iconClass anticon-search"
     />
     <span>
       Search
@@ -385,7 +385,7 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-spin anticon-loading"
+      class="anticon anticon-spin iconClass anticon-loading"
     />
     <span>
       Loading
@@ -396,7 +396,7 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-spin anticon-loading"
+      class="anticon anticon-spin iconClass anticon-loading"
     />
     <span>
       Loading
@@ -416,7 +416,7 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-poweroff"
+      class="anticon iconClass anticon-poweroff"
     />
     <span>
       Click me!
@@ -436,7 +436,7 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-spin anticon-loading"
+      class="anticon anticon-spin iconClass anticon-loading"
     />
   </button>
   <button
@@ -444,7 +444,7 @@ exports[`renders ./components/button/demo/loading.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-spin anticon-loading"
+      class="anticon anticon-spin iconClass anticon-loading"
     />
   </button>
 </div>
@@ -476,7 +476,7 @@ exports[`renders ./components/button/demo/multiple.md correctly 1`] = `
       more 
     </span>
     <i
-      class="anticon anticon-down"
+      class="anticon iconClass anticon-down"
     />
   </button>
 </div>
@@ -550,7 +550,7 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-download"
+      class="anticon iconClass anticon-download"
     />
   </button>
   <button
@@ -558,7 +558,7 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
     type="button"
   >
     <i
-      class="anticon anticon-download"
+      class="anticon iconClass anticon-download"
     />
     <span>
       Download
@@ -581,7 +581,7 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
       type="button"
     >
       <i
-        class="anticon anticon-left"
+        class="anticon iconClass anticon-left"
       />
       <span>
         Backward
@@ -595,7 +595,7 @@ exports[`renders ./components/button/demo/size.md correctly 1`] = `
         Forward
       </span>
       <i
-        class="anticon anticon-right"
+        class="anticon iconClass anticon-right"
       />
     </button>
   </div>

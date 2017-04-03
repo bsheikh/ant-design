@@ -284,7 +284,7 @@ exports[`renders ./components/tabs/demo/custom-add-trigger.md correctly 1`] = `
                 <div>
                   Tab 1
                   <i
-                    class="anticon anticon-close"
+                    class="anticon iconClass anticon-close"
                   />
                 </div>
               </div>
@@ -297,7 +297,7 @@ exports[`renders ./components/tabs/demo/custom-add-trigger.md correctly 1`] = `
                 <div>
                   Tab 2
                   <i
-                    class="anticon anticon-close"
+                    class="anticon iconClass anticon-close"
                   />
                 </div>
               </div>
@@ -422,7 +422,7 @@ exports[`renders ./components/tabs/demo/editable-card.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-plus ant-tabs-new-tab"
+            class="anticon iconClass anticon-plus ant-tabs-new-tab"
           />
         </span>
       </div>
@@ -463,7 +463,7 @@ exports[`renders ./components/tabs/demo/editable-card.md correctly 1`] = `
               <div>
                 Tab 2
                 <i
-                  class="anticon anticon-close"
+                  class="anticon iconClass anticon-close"
                 />
               </div>
             </div>
@@ -618,7 +618,7 @@ exports[`renders ./components/tabs/demo/icon.md correctly 1`] = `
             >
               <span>
                 <i
-                  class="anticon anticon-apple"
+                  class="anticon iconClass anticon-apple"
                 />
                 Tab 1
               </span>
@@ -631,7 +631,7 @@ exports[`renders ./components/tabs/demo/icon.md correctly 1`] = `
             >
               <span>
                 <i
-                  class="anticon anticon-android"
+                  class="anticon iconClass anticon-android"
                 />
                 Tab 2
               </span>

@@ -11,14 +11,14 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -29,14 +29,14 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -47,14 +47,14 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -65,14 +65,14 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -83,14 +83,14 @@ exports[`renders ./components/rate/demo/basic.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -109,14 +109,14 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
     </li>
@@ -127,14 +127,14 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
     </li>
@@ -145,14 +145,14 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
     </li>
@@ -163,14 +163,14 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
     </li>
@@ -181,14 +181,14 @@ exports[`renders ./components/rate/demo/character.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-heart"
+          class="anticon iconClass anticon-heart"
         />
       </div>
     </li>
@@ -358,14 +358,14 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -376,14 +376,14 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -394,14 +394,14 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -412,14 +412,14 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -430,14 +430,14 @@ exports[`renders ./components/rate/demo/disabled.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -455,14 +455,14 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -473,14 +473,14 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -491,14 +491,14 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -509,14 +509,14 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -527,14 +527,14 @@ exports[`renders ./components/rate/demo/half.md correctly 1`] = `
       class="ant-rate-star-first"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
     <div
       class="ant-rate-star-second"
     >
       <i
-        class="anticon anticon-star"
+        class="anticon iconClass anticon-star"
       />
     </div>
   </li>
@@ -553,14 +553,14 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
     </li>
@@ -571,14 +571,14 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
     </li>
@@ -589,14 +589,14 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
     </li>
@@ -607,14 +607,14 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
     </li>
@@ -625,14 +625,14 @@ exports[`renders ./components/rate/demo/text.md correctly 1`] = `
         class="ant-rate-star-first"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
       <div
         class="ant-rate-star-second"
       >
         <i
-          class="anticon anticon-star"
+          class="anticon iconClass anticon-star"
         />
       </div>
     </li>

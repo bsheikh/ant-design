@@ -369,7 +369,7 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
         type="button"
       >
         <i
-          class="anticon anticon-minus"
+          class="anticon iconClass anticon-minus"
         />
       </button>
       <button
@@ -377,7 +377,7 @@ exports[`renders ./components/badge/demo/change.md correctly 1`] = `
         type="button"
       >
         <i
-          class="anticon anticon-plus"
+          class="anticon iconClass anticon-plus"
         />
       </button>
     </div>
@@ -415,7 +415,7 @@ exports[`renders ./components/badge/demo/dot.md correctly 1`] = `
     class="ant-badge"
   >
     <i
-      class="anticon anticon-notification"
+      class="anticon iconClass anticon-notification"
     />
     <sup
       class="ant-scroll-number ant-badge-dot"

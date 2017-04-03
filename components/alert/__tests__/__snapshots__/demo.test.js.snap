@@ -7,7 +7,7 @@ exports[`renders ./components/alert/demo/banner.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-exclamation-circle ant-alert-icon"
+      class="anticon iconClass anticon-exclamation-circle ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -24,7 +24,7 @@ exports[`renders ./components/alert/demo/banner.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-exclamation-circle ant-alert-icon"
+      class="anticon iconClass anticon-exclamation-circle ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -38,7 +38,7 @@ exports[`renders ./components/alert/demo/banner.md correctly 1`] = `
       class="ant-alert-close-icon"
     >
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
       />
     </a>
   </div>
@@ -79,7 +79,7 @@ exports[`renders ./components/alert/demo/closable.md correctly 1`] = `
       class="ant-alert-close-icon"
     >
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
       />
     </a>
   </div>
@@ -101,7 +101,7 @@ exports[`renders ./components/alert/demo/closable.md correctly 1`] = `
       class="ant-alert-close-icon"
     >
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
       />
     </a>
   </div>
@@ -201,7 +201,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-check-circle ant-alert-icon"
+      class="anticon iconClass anticon-check-circle ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -217,7 +217,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-info-circle ant-alert-icon"
+      class="anticon iconClass anticon-info-circle ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -233,7 +233,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-exclamation-circle ant-alert-icon"
+      class="anticon iconClass anticon-exclamation-circle ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -249,7 +249,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-cross-circle ant-alert-icon"
+      class="anticon iconClass anticon-cross-circle ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -265,7 +265,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-check-circle-o ant-alert-icon"
+      class="anticon iconClass anticon-check-circle-o ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -283,7 +283,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-info-circle-o ant-alert-icon"
+      class="anticon iconClass anticon-info-circle-o ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -301,7 +301,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-exclamation-circle-o ant-alert-icon"
+      class="anticon iconClass anticon-exclamation-circle-o ant-alert-icon"
     />
     <span
       class="ant-alert-message"
@@ -319,7 +319,7 @@ exports[`renders ./components/alert/demo/icon.md correctly 1`] = `
     data-show="true"
   >
     <i
-      class="anticon anticon-cross-circle-o ant-alert-icon"
+      class="anticon iconClass anticon-cross-circle-o ant-alert-icon"
     />
     <span
       class="ant-alert-message"

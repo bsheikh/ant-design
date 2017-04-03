@@ -127,7 +127,7 @@ exports[`renders ./components/input/demo/addon.md correctly 1`] = `
         class="ant-input-group-addon"
       >
         <i
-          class="anticon anticon-setting"
+          class="anticon iconClass anticon-setting"
         />
       </span>
     </span>
@@ -432,7 +432,7 @@ exports[`renders ./components/input/demo/presuffix.md correctly 1`] = `
     class="ant-input-prefix"
   >
     <i
-      class="anticon anticon-user"
+      class="anticon iconClass anticon-user"
     />
   </span>
   <input
@@ -458,7 +458,7 @@ exports[`renders ./components/input/demo/search-input.md correctly 1`] = `
     class="ant-input-suffix"
   >
     <i
-      class="anticon anticon-search ant-input-search-icon"
+      class="anticon iconClass anticon-search ant-input-search-icon"
     />
   </span>
 </span>

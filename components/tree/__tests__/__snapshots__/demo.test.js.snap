@@ -697,7 +697,7 @@ exports[`renders ./components/tree/demo/search.md correctly 1`] = `
       class="ant-input-suffix"
     >
       <i
-        class="anticon anticon-search ant-input-search-icon"
+        class="anticon iconClass anticon-search ant-input-search-icon"
       />
     </span>
   </span>

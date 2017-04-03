@@ -325,7 +325,7 @@ exports[`renders ./components/steps/demo/icon.md correctly 1`] = `
             class="ant-steps-icon"
           >
             <i
-              class="anticon anticon-user"
+              class="anticon iconClass anticon-user"
             />
           </span>
         </div>
@@ -364,7 +364,7 @@ exports[`renders ./components/steps/demo/icon.md correctly 1`] = `
             class="ant-steps-icon"
           >
             <i
-              class="anticon anticon-solution"
+              class="anticon iconClass anticon-solution"
             />
           </span>
         </div>
@@ -403,7 +403,7 @@ exports[`renders ./components/steps/demo/icon.md correctly 1`] = `
             class="ant-steps-icon"
           >
             <i
-              class="anticon anticon-credit-card"
+              class="anticon iconClass anticon-credit-card"
             />
           </span>
         </div>
@@ -435,7 +435,7 @@ exports[`renders ./components/steps/demo/icon.md correctly 1`] = `
             class="ant-steps-icon"
           >
             <i
-              class="anticon anticon-smile-o"
+              class="anticon iconClass anticon-smile-o"
             />
           </span>
         </div>

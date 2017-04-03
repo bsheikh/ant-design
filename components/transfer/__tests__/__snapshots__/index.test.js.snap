@@ -103,7 +103,7 @@ exports[`Transfer should render correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-left"
+          class="anticon iconClass anticon-left"
         />
       </span>
     </button>
@@ -113,7 +113,7 @@ exports[`Transfer should render correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-right"
+          class="anticon iconClass anticon-right"
         />
       </span>
     </button>

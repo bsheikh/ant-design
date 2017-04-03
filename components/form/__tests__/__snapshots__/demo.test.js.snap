@@ -255,7 +255,7 @@ exports[`renders ./components/form/demo/advanced-search.md correctly 1`] = `
         >
           Collapse 
           <i
-            class="anticon anticon-down"
+            class="anticon iconClass anticon-down"
           />
         </a>
       </div>
@@ -491,7 +491,7 @@ exports[`renders ./components/form/demo/dynamic-form-item.md correctly 1`] = `
           type="button"
         >
           <i
-            class="anticon anticon-plus"
+            class="anticon iconClass anticon-plus"
           />
           <span>
              Add field
@@ -604,7 +604,7 @@ exports[`renders ./components/form/demo/horizontal-login.md correctly 1`] = `
             class="ant-input-prefix"
           >
             <i
-              class="anticon anticon-user"
+              class="anticon iconClass anticon-user"
               style="font-size:13px;"
             />
           </span>
@@ -636,7 +636,7 @@ exports[`renders ./components/form/demo/horizontal-login.md correctly 1`] = `
             class="ant-input-prefix"
           >
             <i
-              class="anticon anticon-lock"
+              class="anticon iconClass anticon-lock"
               style="font-size:13px;"
             />
           </span>
@@ -859,7 +859,7 @@ exports[`renders ./components/form/demo/normal-login.md correctly 1`] = `
             class="ant-input-prefix"
           >
             <i
-              class="anticon anticon-user"
+              class="anticon iconClass anticon-user"
               style="font-size:13px;"
             />
           </span>
@@ -891,7 +891,7 @@ exports[`renders ./components/form/demo/normal-login.md correctly 1`] = `
             class="ant-input-prefix"
           >
             <i
-              class="anticon anticon-lock"
+              class="anticon iconClass anticon-lock"
               style="font-size:13px;"
             />
           </span>
@@ -1066,7 +1066,7 @@ exports[`renders ./components/form/demo/register.md correctly 1`] = `
         <span>
           Nickname 
           <i
-            class="anticon anticon-question-circle-o"
+            class="anticon iconClass anticon-question-circle-o"
           />
         </span>
       </label>
@@ -1126,10 +1126,10 @@ exports[`renders ./components/form/demo/register.md correctly 1`] = `
             Zhejiang / Hangzhou / West Lake
           </span>
           <i
-            class="anticon anticon-cross-circle ant-cascader-picker-clear"
+            class="anticon iconClass anticon-cross-circle ant-cascader-picker-clear"
           />
           <i
-            class="anticon anticon-down ant-cascader-picker-arrow"
+            class="anticon iconClass anticon-down ant-cascader-picker-arrow"
           />
         </span>
       </div>

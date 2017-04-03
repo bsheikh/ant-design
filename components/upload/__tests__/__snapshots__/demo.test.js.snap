@@ -44,7 +44,7 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-paper-clip"
+            class="anticon iconClass anticon-paper-clip"
           />
           <a
             class="ant-upload-list-item-name"
@@ -58,7 +58,7 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
         </span>
       </div>
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
         title="删除文件"
       />
     </div>
@@ -70,7 +70,7 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-paper-clip"
+            class="anticon iconClass anticon-paper-clip"
           />
           <a
             class="ant-upload-list-item-name"
@@ -84,7 +84,7 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
         </span>
       </div>
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
         title="删除文件"
       />
     </div>
@@ -96,7 +96,7 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-paper-clip"
+            class="anticon iconClass anticon-paper-clip"
           />
           <a
             class="ant-upload-list-item-name"
@@ -110,7 +110,7 @@ exports[`renders ./components/upload/demo/defaultFileList.md correctly 1`] = `
         </span>
       </div>
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
         title="删除文件"
       />
     </div>
@@ -151,7 +151,7 @@ exports[`renders ./components/upload/demo/fileList.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-paper-clip"
+            class="anticon iconClass anticon-paper-clip"
           />
           <a
             class="ant-upload-list-item-name"
@@ -165,7 +165,7 @@ exports[`renders ./components/upload/demo/fileList.md correctly 1`] = `
         </span>
       </div>
       <i
-        class="anticon anticon-cross"
+        class="anticon iconClass anticon-cross"
         title="删除文件"
       />
     </div>
@@ -222,11 +222,11 @@ exports[`renders ./components/upload/demo/picture-card.md correctly 1`] = `
             title="预览文件"
           >
             <i
-              class="anticon anticon-eye-o"
+              class="anticon iconClass anticon-eye-o"
             />
           </a>
           <i
-            class="anticon anticon-delete"
+            class="anticon iconClass anticon-delete"
             title="删除文件"
           />
         </span>
@@ -282,7 +282,7 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
           </span>
         </div>
         <i
-          class="anticon anticon-cross"
+          class="anticon iconClass anticon-cross"
           title="删除文件"
         />
       </div>
@@ -316,7 +316,7 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
           </span>
         </div>
         <i
-          class="anticon anticon-cross"
+          class="anticon iconClass anticon-cross"
           title="删除文件"
         />
       </div>
@@ -364,7 +364,7 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
           </span>
         </div>
         <i
-          class="anticon anticon-cross"
+          class="anticon iconClass anticon-cross"
           title="删除文件"
         />
       </div>
@@ -398,7 +398,7 @@ exports[`renders ./components/upload/demo/picture-style.md correctly 1`] = `
           </span>
         </div>
         <i
-          class="anticon anticon-cross"
+          class="anticon iconClass anticon-cross"
           title="删除文件"
         />
       </div>

@@ -155,7 +155,7 @@ exports[`renders ./components/auto-complete/demo/certain-category.md correctly 1
                   class="ant-input-suffix"
                 >
                   <i
-                    class="anticon anticon-search certain-category-icon"
+                    class="anticon iconClass anticon-search certain-category-icon"
                   />
                 </span>
               </span>
@@ -340,7 +340,7 @@ exports[`renders ./components/auto-complete/demo/uncertain-category.md correctly
                     type="button"
                   >
                     <i
-                      class="anticon anticon-search"
+                      class="anticon iconClass anticon-search"
                     />
                   </button>
                 </span>

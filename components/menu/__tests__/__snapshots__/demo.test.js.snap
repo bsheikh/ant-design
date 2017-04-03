@@ -13,7 +13,7 @@ exports[`renders ./components/menu/demo/horizontal.md correctly 1`] = `
     role="menuitem"
   >
     <i
-      class="anticon anticon-mail"
+      class="anticon iconClass anticon-mail"
     />
     Navigation One
   </li>
@@ -24,7 +24,7 @@ exports[`renders ./components/menu/demo/horizontal.md correctly 1`] = `
     role="menuitem"
   >
     <i
-      class="anticon anticon-appstore"
+      class="anticon iconClass anticon-appstore"
     />
     Navigation Two
   </li>
@@ -39,7 +39,7 @@ exports[`renders ./components/menu/demo/horizontal.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-setting"
+          class="anticon iconClass anticon-setting"
         />
         Navigation Three - Submenu
       </span>
@@ -81,7 +81,7 @@ exports[`renders ./components/menu/demo/sider.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-mail"
+          class="anticon iconClass anticon-mail"
         />
         <span>
           Navigation One
@@ -166,7 +166,7 @@ exports[`renders ./components/menu/demo/sider.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-appstore"
+          class="anticon iconClass anticon-appstore"
         />
         <span>
           Navigation Two
@@ -186,7 +186,7 @@ exports[`renders ./components/menu/demo/sider.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-setting"
+          class="anticon iconClass anticon-setting"
         />
         <span>
           Navigation Three
@@ -217,7 +217,7 @@ exports[`renders ./components/menu/demo/sider-current.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-mail"
+          class="anticon iconClass anticon-mail"
         />
         <span>
           Navigation One
@@ -237,7 +237,7 @@ exports[`renders ./components/menu/demo/sider-current.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-appstore"
+          class="anticon iconClass anticon-appstore"
         />
         <span>
           Navigation Two
@@ -257,7 +257,7 @@ exports[`renders ./components/menu/demo/sider-current.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-setting"
+          class="anticon iconClass anticon-setting"
         />
         <span>
           Navigation Three
@@ -299,7 +299,7 @@ exports[`renders ./components/menu/demo/switch-mode.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-mail"
+            class="anticon iconClass anticon-mail"
           />
           <span>
             Navigation One
@@ -384,7 +384,7 @@ exports[`renders ./components/menu/demo/switch-mode.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-appstore"
+            class="anticon iconClass anticon-appstore"
           />
           <span>
             Navigation Two
@@ -404,7 +404,7 @@ exports[`renders ./components/menu/demo/switch-mode.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-setting"
+            class="anticon iconClass anticon-setting"
           />
           <span>
             Navigation Three
@@ -450,7 +450,7 @@ exports[`renders ./components/menu/demo/theme.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-mail"
+            class="anticon iconClass anticon-mail"
           />
           <span>
             Navigation One
@@ -509,7 +509,7 @@ exports[`renders ./components/menu/demo/theme.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-appstore"
+            class="anticon iconClass anticon-appstore"
           />
           <span>
             Navigtion Two
@@ -529,7 +529,7 @@ exports[`renders ./components/menu/demo/theme.md correctly 1`] = `
       >
         <span>
           <i
-            class="anticon anticon-setting"
+            class="anticon iconClass anticon-setting"
           />
           <span>
             Navigation Three
@@ -560,7 +560,7 @@ exports[`renders ./components/menu/demo/vertical.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-mail"
+          class="anticon iconClass anticon-mail"
         />
         <span>
           Navigation One
@@ -579,7 +579,7 @@ exports[`renders ./components/menu/demo/vertical.md correctly 1`] = `
     >
       <span>
         <i
-          class="anticon anticon-appstore"
+          class="anticon iconClass anticon-appstore"
         />
         <span>
           Navigation Two
